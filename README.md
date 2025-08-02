@@ -16,27 +16,27 @@ What It Does
 
 🧰 Tools Used
 
-Pandas, NumPy – Data handling
+* Pandas, NumPy – Data handling
 
-Plotly – Interactive visualizations
+* Plotly – Interactive visualizations
 
-Scikit-learn – Clustering and prediction
+* Scikit-learn – Clustering and prediction
 
-Statsmodels – Trendline support
+* Statsmodels – Trendline support
 
 
 📊 Key Features
 
-Seasonal temperature trend visualization
+* Seasonal temperature trend visualization
 
-Animated scatter plots for monthly trends
+* Animated scatter plots for monthly trends
 
-Forecast temperature line chart
+* Forecast temperature line chart
 
-Cluster-wise temperature distribution
+* Cluster-wise temperature distribution
 
 🧠 ML Concepts Used
 
-KMeans: To group similar temperature patterns
+* KMeans: To group similar temperature patterns
 
-DecisionTreeRegressor: To forecast future temperature
+* DecisionTreeRegressor: To forecast future temperature
